@@ -1,0 +1,14 @@
+- retitled webpage
+- commented HTML
+- commented css
+- swiched div class header to header tag
+- switched divs to navs for the navigation bar
+- search-engine-optimization added 'id'
+- removed .headers in style.css, replaced with header (class --> HTML5 tag)
+- changed 'div' tags which define sections to 'section' tags
+- re-ordered style.css to prevent overwrites
+- cleaned up duplicate styles
+- changed footer from 'div' to 'footer'
+- changed 'div' tags to 'article' tags where appropriate
+- created git repository for new website
+- added alt-text to images
