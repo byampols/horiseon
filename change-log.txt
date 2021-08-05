@@ -11,4 +11,5 @@
 - changed footer from 'div' to 'footer'
 - changed 'div' tags to 'article' tags where appropriate
 - created git repository for new website
+- rearranged directories for github
 - added alt-text to images
