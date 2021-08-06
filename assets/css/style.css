@@ -76,11 +76,11 @@ header nav ul li {
 }
 /*end hero styles*/
 
-/*begin content stlyes*/
-.content {
-    width: 75%;
-    display: inline-block;
+/*begin services stlyes*/
+.services {
     margin-left: 20px;
+    width: 75%; 
+    display: inline-block;
 }
 
 .service {
@@ -100,9 +100,9 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*end content stlyes*/
+/*end services stlyes*/
 
-
+/*begin benefit stlyes*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,8 +119,9 @@ header nav ul li {
     color: #ffffff;
 }
 
-.benefit h3 {
+.benefit h2 {
     margin-bottom: 10px;
+    font-size: 1.17em;
     text-align: center;
 }
 
