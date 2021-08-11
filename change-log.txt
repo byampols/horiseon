@@ -17,3 +17,4 @@
 - removed 'social' from Social Media Marketing id, as the word: "social" is flagged as unimportant by reader view
 - reorganized classes to have proper names
 - changed divs to sections where appropriate
+- updated readme
